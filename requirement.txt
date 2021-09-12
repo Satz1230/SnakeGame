@@ -1,6 +1,11 @@
 Python >= 3.6
+pip latest
+pyinstaller latest
+-----------------
+Required Modules:-
 tkinter
 threading
 pickle
 random
 time
+-----------------
