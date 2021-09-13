@@ -1,2 +1,2 @@
 # SnakeGame
-Classic snake game with rainbow color changing theme.
+Classic snake game with rainbow color changing theme 🌈.
